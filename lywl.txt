@@ -29,7 +29,7 @@ CCTV发现之旅,http://111.20.33.70/PLTV/88888893/224/3221226235/index.m3u8
 CCTV时尚,http://111.20.33.70/PLTV/88888893/224/3221226237/index.m3u8
 CETV3,http://111.20.33.70/PLTV/88888893/224/3221226226/index.m3u8
 CETV4,http://111.20.33.70/PLTV/88888893/224/3221226225/index.m3u8
-移动卫视,#genre#
+卫视,#genre#
 黑龙江卫视,http://111.20.33.70/PLTV/88888893/224/3221226215/index.m3u8
 黑龙江卫视,http://111.20.33.70/PLTV/88888893/224/3221226010/index.m3u8
 辽宁卫视，http://111.20.33.70/PLTV/88888893/224/3221226201/index.m3u8
@@ -97,7 +97,7 @@ CETV4,http://111.20.33.70/PLTV/88888893/224/3221226225/index.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8?fbl=
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8?fbl=
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?&fbl=
-浙江频道,#genre#
+浙江,#genre#
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -271,7 +271,7 @@ CETV-4,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225906/index.m3u8
 子洲电视台,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225997/index.m3u8
 兴平戏曲,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225976/index.m3u8
 长武戏曲,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225984/index.m3u8
-商洛本地,#genre#
+商洛,#genre#
 商洛,http://111.20.33.70/PLTV/88888893/224/3221226378/index.m3u8
 商洛,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225666/index.m3u8
 洛南,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225949/index.m3u8
@@ -332,7 +332,7 @@ CHC动作电影,http://111.20.33.70/PLTV/88888893/224/3221226465/index.m3u8
 凤凰卫视资讯,http://hkenlive.uk/livehttpplay?channel_id=13012
 凤凰卫视资讯,http://hkenlive.uk/livehttpplay?channel_id=13008
 popc卫视,http://go1.bkpcp.top/tl/popc
-春晚新,#genre#
+春晚,#genre#
 1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 1984,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 1985,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
