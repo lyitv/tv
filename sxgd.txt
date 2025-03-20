@@ -373,7 +373,6 @@ CGTN 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225708/index.m3u8
 渭南新闻 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225819/index.m3u8
 铜川1 320,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225821/index.m3u8
 
-原高清
 CCTV3 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225611/index.m3u8
 CCTV5 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
 CCTV6 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225609/index.m3u8
@@ -389,7 +388,7 @@ CCTV8 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225492/index.m3u8
 ?CCTV1 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226027/index.m3u8
 ?CCTV1 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226040/index.m3u8
 ?CCTV1 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226059/index.m3u8
-?即将上线 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226026/index.m3u8
+上线 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226027/index.m3u8
 ?即将上线 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226028/index.m3u8
 ?即将上线 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226029/index.m3u8
 ?渭南某县 576,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226049/index.m3u8
